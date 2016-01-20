@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14C1514" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Contacts" representedClassName="BizidProject.Contacts" syncable="YES">
+        <attribute name="contactInfo" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="contactInfoHead" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="portrait" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Contacts" positionX="-63" positionY="-18" width="128" height="90"/>
+    </elements>
+</model>
